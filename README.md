@@ -2,7 +2,7 @@
 
 ![Developer imagen](screenshot.gif "screenshot")
 
-> Hola Mi Nombre es Gustavo Cogolllo y soy un Desarrollador FrontEnd, pasa por mis Repositorios y conoceme
+> Hola Mi Nombre es Gustavo Cogollo y soy un Desarrollador FrontEnd, pasa por mis Repositorios y conoceme
 
 > Tambien puedes contactarme por: <a href="www.linkedin.com/in/gustavo-adolfo-cogollo-6575b921" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="algorodev" height="30" width="40" /></a>
 
