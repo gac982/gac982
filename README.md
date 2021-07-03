@@ -1,10 +1,8 @@
 # Gustavo Adolfo Cogollo [![GitHub: gac982](https://img.shields.io/github/followers/gac982?label=gac982&style=social)](https://github.com/gac982) ![GitHub User's stars](https://img.shields.io/github/stars/gac982?style=social) ![](https://komarev.com/ghpvc/?username=gac982&label=Profile%20views&color=orange&style=flat)
 
 <p align="center">
-    <img src="screenshot.gif">
+    <img src="screenshot.gif" alt="gif-developer">
 </p>
-
-![Developer imagen](screenshot.gif "screenshot")
 
 Hola soy un Full Stack Developer amante del desarrollo, fanatico del futbol y los videojuegos enamorado de mi familia y de linux, puedes conocer un poco mas de mi trabajo pasando por mis repositorios o si prefieres puede contactarme por mi perfil de Linkedin o por Telegram: <a href="www.linkedin.com/in/gustavo-adolfo-cogollo-6575b921" target="blank"><img align="center" src="icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a> <a href="https://t.me/Valgran" target="blank"><img align="center" src="icons/telegrama.svg" alt="telegram" height="30" width="40" /></a>
 
